@@ -1,0 +1,64 @@
+body {
+    background-image: url("https://melvolkman.com/wp-content/uploads/2017/03/Beauty-Bar-Beauty-Brand-by-Mel-Volkman-Beautiful-Branding-Elegant-Branding-Rose-Gold-Foil-2-1.png");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+    background-position: center;
+    margin-bottom: 50px;
+    font-family: 'Dancing Script', cursive;
+    }
+
+#content {
+    text-align: center;
+    text-shadow: 0px 4px 3px rgba(0,0,0,0.4),
+                 0px 8px 13px rgba(0,0,0,0.1),
+                 0px 18px 23px rgba(0,0,0,0.1);
+    padding-top: 350px; 
+        }
+
+img {
+    max-width: 100%;
+    height: auto;
+}
+
+h1 {
+    color: rgb(218,165,32);
+}
+
+h3 {
+    color: rgb(218,165,32);
+}
+
+html {
+    height: 100%;
+}
+
+.dropdown {
+    margin: 7px;
+    color: white;
+    }
+
+#thumbnail {
+    color: black;
+}
+
+.navbar-default {
+  background: rgb(255,218,185);
+  border-style: solid;
+  border-width: 5px;
+  color: #ecf0f1;
+  font-size: 20px;
+  }
+
+  .navbar-brand {
+      font-size: 20px;
+      padding-top: 17px;
+      }
+
+
+
+/*.navbar-brand {
+        url:("https://melvolkman.com/wp-content/uploads/2017/03/Beauty-Bar-Beauty-Brand-by-Mel-Volkman-Beautiful-Branding-Elegant-Branding-Rose-Gold-Foil-2-1.png");
+}*/
+
+/*https://bergenmama.com/images/uploads/made/images/uploads/hairstyle_for_the_holidays_bisous_beauty_bar_englewood_nj_740_385_c1.jpg*/
